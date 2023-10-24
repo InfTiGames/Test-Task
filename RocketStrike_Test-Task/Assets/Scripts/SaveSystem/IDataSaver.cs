@@ -1,0 +1,3 @@
+﻿interface IDataSaver {
+    void Save();
+}

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "993489253390",
+    "firebase_url": "https://pongtesttask-default-rtdb.firebaseio.com",
+    "project_id": "pongtesttask",
+    "storage_bucket": "pongtesttask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993489253390:android:9668380f39809e19e0385f",
+        "android_client_info": {
+          "package_name": "com.InfTiGames.RocketStrikeTestTask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuhHgm2QGQC0JSwC30Lwa7uMH2Iun4vHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
